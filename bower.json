@@ -1,0 +1,29 @@
+{
+    "name": "purescript-rnx-snap-carousel",
+    "description": "Purescript wrapper for react-native-snap-carousel",
+    "main": "index.js",
+    "authors": [
+        "Vishnu Prasad <vishnu@atomicits.com>"
+    ],
+    "license": "MIT",
+    "keywords": [
+        "purescript",
+        "rnx",
+        "react-native",
+        "snap",
+        "carousel"
+    ],
+    "homepage": "",
+    "private": true,
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "purescript-rnx" : "^0.1.2-alpha",
+        "purescript-react": "^2.0.0"
+    }
+}

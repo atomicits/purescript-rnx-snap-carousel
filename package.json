@@ -1,0 +1,12 @@
+{
+  "name": "purescript-rnx-snap-carousel",
+  "version": "1.0.0",
+  "description": "Purescript wrapper for react-native-snap-carousel",
+  "main": "index.js",
+  "repository": "atomicits/purescript-rnx-snap-carousel",
+  "author": "Vishnu Prasad <vishnu@atomicits.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react-native-snap-carousel": "^2.0.0"
+  }
+}
